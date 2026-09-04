@@ -1,6 +1,6 @@
 # Healthcare Data Analyst Portfolio
 
-# About the author
+## About the author
 
 Rusa Maja Pedigo — healthcare operations and data.
 
@@ -8,7 +8,7 @@ I spent three years in hospital referrals, prior authorization, and denials at a
 
 Power BI · SQL · Advanced Excel · Python
 Belgrade, Serbia and Hartford, Connecticut
-LinkedIn · majapedigo@gmail.com
+majapedigo@gmail.com
 
 Three end-to-end healthcare analytics projects, each built the way a working data analyst would: a business question, a clean data model, analytical SQL, a live Excel workbook, and a Power BI dashboard spec. All datasets are **synthetic** (NumPy, seed 42) — realistic but containing no real patient data.
 
