@@ -34,8 +34,6 @@ python _build_dashboards.py  # renders the dashboard PNGs
 ## Data disclaimer
 All data in this repository is **synthetic** — generated programmatically with NumPy (`_generate_data.py`, fixed seed for reproducibility). It contains no real patients and no protected health information (PHI). Synthetic data is used deliberately: it keeps the project fully shareable while respecting the HIPAA constraints that govern real healthcare data. Distributions (readmission rates, ED wait times, denial rates) were tuned to fall within realistic industry ranges so the analysis remains meaningful.
 
-## How to talk about these in an interview
-Each project pairs a metric with an **action**: readmissions → care-management worklist; ED flow → staffing and boarding fixes; denials → a prioritized Pareto of preventable errors. The point isn't the dashboard — it's the decision the dashboard drives.
 
 ## License
 MIT — see [LICENSE](LICENSE).
